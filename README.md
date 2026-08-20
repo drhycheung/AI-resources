@@ -85,11 +85,10 @@ This section brings together broader AI and education resources that situate Gen
 These are the tools I would suggest trying first if you are new to GenAI or want a practical set of tools that cover the main tasks in teaching, learning, and research.
 
 1. [(Link)](https://gemini.google.com/) **Gemini 📌**: the most practical general chatbot for everyday use, especially for multimodal work and custom chatbot workflows.
-2. [(Link)](https://copilot.microsoft.com/) **Microsoft Copilot 📌**: especially strong when connected with Outlook and OneDrive for productivity and document-focused work.
-3. [(Link)](https://opencode.ai/) **OpenCode 📌**: a practical coding agent with a generous free tier for rapid prototyping and everyday development.
-4. [(Link)](https://metaso.cn/) **秘塔 📌**: a useful search and assistant tool for research, reading, and knowledge discovery in Chinese contexts.
-5. [(Link)](https://metaso.cn/) **秘塔回响 📌**: a highly practical voice-input tool for speaking in Chinese and capturing ideas quickly without typing.
-6. [(Link)](https://www.doubao.com/) **豆包 📌**: one of the most capable Chinese-language assistants for daily work, multimodal use, and quick practical help.
+2. [(Link)](https://opencode.ai/) **OpenCode 📌**: a practical coding agent with a generous free tier for rapid prototyping and everyday development.
+3. [(Link)](https://metaso.cn/) **秘塔 📌**: a useful search and assistant tool for research, reading, and knowledge discovery in Chinese and English contexts.
+4. [(Link)](https://metaso.cn/echo) **秘塔回响 📌**: a highly practical voice-input tool for speaking in English or Chinese and capturing ideas quickly without typing.
+5. [(Link)](https://www.doubao.com/) **豆包 📌**: one of the most capable Chinese-language assistants for daily work, multimodal use, and quick practical help.
 
 ### Directories
 
@@ -108,9 +107,8 @@ These are the general-purpose AI assistants I use most often for daily tasks, co
 
 1. [(Link)](https://genai.eduhk.hk/) **GenAI at EdUHK**: This GenAI service indicates the University's attitude to encourage the use of generative AI in teaching, learning, and research. For EdUHK staff and students only (VPN is needed if accessing off-campus.)
 2. [(Link)](https://gemini.google.com/) **Gemini 📌**: The most practical AI assistant for daily use now, especially for custom chatbots and multimodal work. Poe's generous free credits have dropped sharply, and Doubao has removed its custom agent feature, so Gemini's GEM tool is a strong replacement for a lot of everyday use.
-3. [(Link)](https://copilot.microsoft.com/) **Microsoft Copilot 📌**: This is a particularly powerful option when connected with Outlook and OneDrive, especially for productivity workflows across documents, email, and files.
-4. [(Link)](https://www.perplexity.ai) **Perplexity.ai**: A search-first AI assistant that answers with citations and concise web-grounded summaries.
-5. [(Link)](https://poe.com/) **Poe**: Poe remains a highly usable chatbot with multiple bots, free access in Hong Kong, document upload, custom chatbots, conversations, web search, image generation, and multimodal support.
+3. [(Link)](https://www.perplexity.ai) **Perplexity.ai**: A search-first AI assistant that answers with citations and concise web-grounded summaries.
+4. [(Link)](https://poe.com/) **Poe**: Poe remains a highly usable chatbot with multiple bots, free access in Hong Kong, document upload, custom chatbots, conversations, web search, image generation, and multimodal support.
 
 ### Chinese-language General Purpose Chatbots
 
@@ -119,7 +117,7 @@ These Chinese-language chatbots are especially useful when working in Mandarin o
 1. [(Link)](https://www.deepseek.com/) **DeepSeek 深度求索**: This is a strong reasoning and coding assistant that is valuable for both everyday work and technical tasks.
 2. [(Link)](https://www.doubao.com/) **豆包 📌**: One of the most capable Chinese AIs, especially strong for desktop use and multimodal interaction.
 3. [(Link)](https://kimi.moonshot.cn/) **Kimi 📌**: This Chinese chatbot is known for long-context conversations and strong document-based Q&A.
-4. [(Link)](https://metaso.cn/) **秘塔AI 📌**: This is a general AI search and assistant platform that is useful for research, reading, and knowledge discovery.
+4. [(Link)](https://metaso.cn/) **秘塔AI 📌**: This is a general AI search and assistant platform that is useful for research, reading, and knowledge discovery, and it works well in both Chinese and English.
 5. [(Link)](https://qianwen.aliyun.com/) **通义千问**: Alibaba's general LLM is widely used for Chinese-language tasks and is available through multiple channels.
 6. [(Link)](https://yuanbao.tencent.com/discovery) **腾讯元宝**: Tencent's general-purpose assistant offers strong Chinese-language support and practical agent-style features.
 7. [(Link)](https://yiyan.baidu.com) **文心一言**: This chatbot by Baidu is one of the most usable Chinese LLMs for general use, and it is available as both a website and an app.
@@ -130,10 +128,9 @@ These tools go beyond simple chat and can help with execution, coding, and more 
 
 1. [(Link)](https://claude.ai/code) **Claude Code**: I have also tried Claude Code, but it is too expensive for regular use in my workflow.
 2. [(Link)](https://openai.com/codex) **Codex**: A capable coding agent worth trying for code generation and software task execution.
-3. [(Link)](https://github.com/features/copilot) **GitHub Copilot**: Staff and students of academic institutions can often apply for an education account and use Copilot Pro for free.
-4. [(Link)](https://hermes-agent.nousresearch.com/) **Hermes Agent 📌**: Hermes Agent is designed for agentic workflows that span browsing, tool use, scheduling, memory, and delegation. It is especially interesting for people who want a persistent, multi-step assistant rather than a single-turn chatbot.
-5. [(Link)](https://openclaw.ai/) **OpenClaw**: Another useful agent option for experimentation and programming assistance, especially if you want to explore beyond mainstream tools.
-6. [(Link)](https://opencode.ai/) **OpenCode 📌**: This is a practical coding agent with a generous free tier, making it useful for rapid prototyping and everyday development tasks.
+3. [(Link)](https://hermes-agent.nousresearch.com/) **Hermes Agent 📌**: Hermes Agent is designed for agentic workflows that span browsing, tool use, scheduling, memory, and delegation. It is especially interesting for people who want a persistent, multi-step assistant rather than a single-turn chatbot.
+4. [(Link)](https://openclaw.ai/) **OpenClaw**: Another useful agent option for experimentation and programming assistance, especially if you want to explore beyond mainstream tools.
+5. [(Link)](https://opencode.ai/) **OpenCode 📌**: This is a practical coding agent with a generous free tier, making it useful for rapid prototyping and everyday development tasks.
 
 ### AI APIs
 
@@ -169,8 +166,7 @@ These tools support learning, language development, adaptive practice, and refle
 These tools help with literature search, understanding, and reading support for academic work.
 
 1. [(Link)](https://elicit.com/) **Elicit**: This research assistant is designed to help find, compare, and summarize academic literature.
-2. [(Link)](https://poe.com/NotesCopilot) **NotesCopilot (Poe)**: This custom Poe chatbot takes in a DOCX or PDF file and answers questions about its contents. It is especially useful for reading handbooks, lecture notes, academic papers, and other long documents.
-3. [(Link)](https://www.google.com/aclk?sa=l&ai=DChcSEwjpqZ_mrcOGAxXZ1hYFHVwLN6gYABAAGgJ0bA&ae=2&gclid=Cj0KCQjw9vqyBhCKARIsAIIcLMFaSqnXuTS_KNzfxfv1h-JAN9UENzYODi2xpH0TS6wQ0OtcWTuSdNoaAusyEALw_wcB&sig=AOD64_1tmsGQwb78pfVoKATJrHITfIlUNg&q&adurl&ved=2ahUKEwiepJrmrcOGAxWOga8BHd1eAecQ0Qx6BAgGEAE) **Scite Assistant**: This tool provides literature-supported answers to academic questions.
+2. [(Link)](https://www.google.com/aclk?sa=l&ai=DChcSEwjpqZ_mrcOGAxXZ1hYFHVwLN6gYABAAGgJ0bA&ae=2&gclid=Cj0KCQjw9vqyBhCKARIsAIIcLMFaSqnXuTS_KNzfxfv1h-JAN9UENzYODi2xpH0TS6wQ0OtcWTuSdNoaAusyEALw_wcB&sig=AOD64_1tmsGQwb78pfVoKATJrHITfIlUNg&q&adurl&ved=2ahUKEwiepJrmrcOGAxWOga8BHd1eAecQ0Qx6BAgGEAE) **Scite Assistant**: This tool provides literature-supported answers to academic questions.
 4. [(Link)](https://typeset.io/) **SciSpace**: This is a very useful tool for reading and understanding academic literature.
 5. [(Link)](https://metaso.cn/) **秘塔AI 📌**: This is a general AI search and assistant platform that is useful for research, reading, and knowledge discovery.
 
@@ -206,7 +202,7 @@ These creative tools support image, video, audio, and media generation for teach
 4. [(Link)](https://www.flowmusic.app/) **Google Flow Music**: This music-generation tool turns text prompts into songs and audio ideas.
 5. [(Link)](https://dream-machine.lumalabs.ai/) **Luma Dream Machine**: This text-to-video system generates short, cinematic clips from prompts and is useful for rapid concept visualization.
 6. [(Link)](https://designer.microsoft.com/) **Microsoft Designer**: This design tool uses AI to help create social graphics, presentations, and simple marketing materials quickly.
-7. [(Link)](https://metaso.cn/) **秘塔回响 📌**: A very useful voice-input and speech-assistant tool for dictating ideas, notes, and spoken content quickly in Chinese.
+7. [(Link)](https://metaso.cn/echo) **秘塔回响 📌**: A very useful bilingual voice-input and speech-assistant tool for dictating ideas, notes, and spoken content quickly in English or Chinese.
 8. [(Link)](https://www.minimaxi.com/) **MiniMax video, music, and speech generation**: This platform covers video, music, and speech generation, making it useful for multimedia projects and audio-visual experimentation.
 9. [(Link)](https://playground.com/) **Playground**: Note: This model is now also available on Poe.
 10. [(Link)](https://miaohua.sensetime.com/) **SenseMirage**: This is an image generator developed by SenseTime.
