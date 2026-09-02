@@ -1,6 +1,6 @@
 # Recommended AI Tools for Teaching, Learning & Research
 
-- 🗓️ Last updated: Aug 20, 2026
+- 🗓️ For the last-updated date, please refer to the GitHub commit records.
 - 👤 Dr. HY Cheung ([hyincheung@eduhk.hk](mailto:hyincheung@eduhk.hk)), Lecturer & Programme Leader for BSc(AI&EdTech) at EdUHK
 
 > 💡 Note: the pin icon (📌) marks the tools that are my favourites and are deeply integrated into my daily workflow and teaching.
@@ -189,7 +189,7 @@ These tools support drafting, editing, idea generation, and presentation develop
 
 ### Programming
 
-These tools support coding, prototyping, debugging, and software development learning.
+These tools support coding, prototyping, debugging, and software development learning. You can also consider using the general LLM tools or AI agents listed above first for many everyday programming tasks.
 
 1. [(Link)](https://www.blackbox.ai/) **Blackbox**: This chatbot is tailored to support coding in various languages and also includes a VS Code extension.
 2. [(Link)](https://ai.thestempedia.com/extension/chatgpt/) **ChatGPT extension for PictoBlox**: Use this extension to incorporate ChatGPT into a PictoBlox project.
