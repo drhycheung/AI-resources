@@ -131,8 +131,8 @@ These tools go beyond simple chat and can help with execution, coding, and more 
 3. [(Link)](https://hermes-agent.nousresearch.com/) **Hermes Agent 📌**: Hermes Agent is designed for agentic workflows that span browsing, tool use, scheduling, memory, and delegation. It is especially interesting for people who want a persistent, multi-step assistant rather than a single-turn chatbot.
 4. [(Link)](https://openclaw.ai/) **OpenClaw**: Another useful agent option for experimentation and programming assistance, especially if you want to explore beyond mainstream tools.
 5. [(Link)](https://opencode.ai/) **OpenCode 📌**: This is a practical coding agent with a generous free tier, making it useful for rapid prototyping and everyday development tasks.
-6. [(Link)](https://www.doubao.com/) **豆包工作任务**: This is a task-driven feature within Doubao (豆包) that helps you break down tasks, create checklists, draft status updates, and coordinate lightweight work processes for small projects.
-7. [(Link)](https://www.workbuddy.ai) **腾讯 WorkBuddy**: This is a Tencent workplace AI assistant integrated with Tencent Meeting and Tencent Docs, especially strong for meeting notes, document co-writing, and task management in office environments.
+6. [(Link)](https://www.doubao.com/) **豆包工作任务**: Doubao's agent-driven task mode (now evolving into 豆包工作), which understands goals, breaks tasks into steps, calls tools and connectors, and delivers finished work products. It supports skills, multi-agent "work companions", and scheduled/periodic tasks for everyday office work.
+7. [(Link)](https://www.workbuddy.ai) **腾讯 WorkBuddy**: Tencent's all-scenario AI office workbench. Describe a task in plain language and it autonomously plans, executes, and delivers usable results—handling documents, spreadsheets, PPTs, data analysis, and local file operations, with 100+ domain experts, multi-agent teamwork, and a cloud 7×24 assistant.
 
 ### AI APIs
 
