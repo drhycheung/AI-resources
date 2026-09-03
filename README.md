@@ -161,7 +161,6 @@ These tools support learning, language development, adaptive practice, and refle
 2. [(Link)](https://poe.com/MrSocrates) **MrSocrates (Poe) 📌**: This custom Poe chatbot guides student learning using the Socratic method.
 3. [(Link)](https://poe.com/NihongoABC) **NihongoABC (Poe)**: This custom Poe chatbot supports Japanese learning.
 4. [(Link)](https://mr.baidu.com/r/1vbekDL9HY4) **苏格拉底的智慧（文小言版本）**: This is a Chinese-language version of the Socratic learning chatbot designed to guide students through questioning and reflection.
-5. [(Link)](https://yuanbao.tencent.com/bot/app/agent/T1efvd4cZ91Z) **苏格拉底的智慧（腾讯元宝版本）**: This is a Chinese-language version of MrSocrates.
 
 ### Academic Reading and Research
 
