@@ -146,9 +146,9 @@ These tools support classroom practice, assessment, and teacher reflection.
 
 1. [(Link)](https://poe.com/BigBuddha) **BigBuddha 佛陀 (Poe)**: This custom Poe chatbot draws on the wisdom of the Buddha to help teachers and others manage stress and prevent burnout. You can ask it questions or share your feelings, and it will respond with compassion and insight.
 2. [(Link)](https://poe.com/FeedbackHelper) **FeedbackHelper (Poe) 📌**: This custom Poe chatbot converts point-form feedback into polished paragraphs.
-3. [(Link)](https://poe.com/LessonDesigner) **LessonDesigner (Poe) 📌**: This custom Poe chatbot helps with lesson design by following the principles of constructive alignment and Bloom's taxonomy.
+3. [(Link)](https://gemini.google.com/gem/12yvx4pHNKNcce2c8Eoq894YRQWGfOmKD?usp=sharing) **LessonDesigner (Gemini) 📌**: This custom Gemini chatbot helps with lesson design by following the principles of constructive alignment and Bloom's taxonomy.
 4. [(Link)](https://app.magicschool.ai/) **MagicSchool.ai**: This classroom-friendly AI platform supports lesson planning, feedback, and student support.
-5. [(Link)](https://poe.com/TestGen) **TestGen (Poe) 📌**: This custom Poe chatbot generates test questions aligned with intended learning outcomes. Please use it carefully and check the outputs critically.
+5. [(Link)](https://gemini.google.com/gem/1LwVl-PWwHCD-LwO7eQ9t2P1QRH9DAzCu?usp=sharing) **TestGen (Gemini) 📌**: This custom Gemini chatbot generates test questions aligned with intended learning outcomes. Please use it carefully and check the outputs critically.
 6. [(Link)](https://poe.com/TheTeacher) **TheTeacher (Poe)**: This serves as my AI counterpart on Poe for answering general questions from students.
 7. [(Link)](https://poe.com/YangmingBot) **YangmingBot 王阳明 (Poe)**: This custom Poe chatbot roles as Wang Yangming and responds in that persona.
 8. [(Link)](https://www.yochatgpt.io/) **YoChatGPT**: This is a collaborative GenAI teaching and learning tool, and it is a genuinely unique product.
@@ -158,7 +158,7 @@ These tools support classroom practice, assessment, and teacher reflection.
 These tools support learning, language development, adaptive practice, and reflective study processes.
 
 1. [(Link)](https://poe.com/LetsLearn) **LetsLearn (Poe)**: This custom Poe chatbot supports adaptive learning.
-2. [(Link)](https://poe.com/MrSocrates) **MrSocrates (Poe) 📌**: This custom Poe chatbot guides student learning using the Socratic method.
+2. [(Link)](https://gemini.google.com/gem/1a0V8ZYogIaLOBhXbQzO7I2N5ioAjT0XD?usp=sharing) **MrSocrates (Gemini) 📌**: This custom Gemini chatbot guides student learning using the Socratic method.
 3. [(Link)](https://poe.com/NihongoABC) **NihongoABC (Poe)**: This custom Poe chatbot supports Japanese learning.
 4. [(Link)](https://mr.baidu.com/r/1vbekDL9HY4) **苏格拉底的智慧（文小言版本）**: This is a Chinese-language version of the Socratic learning chatbot designed to guide students through questioning and reflection.
 
